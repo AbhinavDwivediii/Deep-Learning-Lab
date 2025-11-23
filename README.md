@@ -1,4 +1,4 @@
-🌙 Deep Learning Experiments
+Deep Learning Experiments
 
 
 
@@ -7,22 +7,16 @@
 
 
 
-A comprehensive collection of deep learning experiments from fundamentals to advanced applications.
+A comprehensive collection of deep learning experiments from fundamentals to advanced applications
 
-View Experiments
- • Setup
- • Technologies
+View Experiments • Setup • Technologies
 
 📋 Table of Contents
 
 About
-
 Repository Structure
-
 Experiments
-
 Setup & Installation
-
 Technologies Used
 
 🎯 About
@@ -70,125 +64,112 @@ Each experiment is designed to build practical understanding through implementat
 Each experiment folder is self-contained with its notebook, datasets, and generated visualizations.
 
 🔬 Experiments
-📊 Experiment 1 — Comparative Study of Deep Learning Frameworks
+📊 Experiment 1
+
+Comparative Study of Deep Learning Frameworks
 
 Topics:
-
 ├── TensorFlow Implementation
 ├── Keras Implementation
 ├── PyTorch Implementation
 └── Framework Comparison
 
+Compare TensorFlow, Keras, and PyTorch by implementing linear regression.
+Analyze code verbosity, API design patterns, and debugging capabilities across frameworks.
 
-Compare TensorFlow, Keras, and PyTorch by implementing linear regression. Analyze code verbosity, API design patterns, and debugging capabilities across frameworks.
+🔧 Experiment 2
 
-▶ View Experiment
-
-🔧 Experiment 2 — Neural Networks from Scratch
+Neural Networks from Scratch
 
 Topics:
-
 ├── Single Neuron (AND Gate)
 ├── Feedforward Network (XOR)
 ├── MLP with Backpropagation
 └── Activation & Loss Functions
 
+Build neural network components from ground up without high-level libraries.
+Implement forward propagation, backpropagation, and training mechanisms.
 
-Build neural network components from scratch without high-level libraries. Implement forward propagation, backpropagation, and training mechanisms.
+🎯 Experiment 3
 
-▶ View Experiment 📁 Dataset
-
-🎯 Experiment 3 — Classification with DL Frameworks
+Classification with DL Frameworks
 
 Topics:
-
 ├── Dataset: MNIST / Fashion-MNIST
 ├── Data Preprocessing
 ├── Model Training & Validation
 └── Performance Evaluation
 
+End-to-end classification pipeline including data normalization, model building, training curves, and confusion matrix analysis.
 
-End-to-end classification pipeline including normalization, model building, training visualization, and confusion matrix analysis.
+🖼️ Experiment 4
 
-▶ View Experiment 📁 Dataset
-
-🖼️ Experiment 4 — Transfer Learning for Image Classification
+Transfer Learning for Image Classification
 
 Topics:
-
 ├── Pretrained Models
 ├── Feature Extraction
 ├── Fine-Tuning Strategies
 └── Cats vs Dogs / CIFAR-10
 
+Leverage pretrained models (ResNet, EfficientNet, MobileNet) for image classification.
+Implement feature extraction and fine-tuning approaches.
 
-Leverage pretrained models like ResNet, EfficientNet, MobileNet for feature extraction and fine-tuning.
+⚡ Experiment 5
 
-▶ View Experiment 📁 Dataset
-
-⚡ Experiment 5 — Training Deep Networks
+Training Deep Networks
 
 Topics:
-
 ├── Activation Functions Visualization
 ├── Loss Functions Implementation
 ├── Backpropagation Algorithm
 └── Optimizer Comparison
 
+Visualize activation and loss functions.
+Implement and compare optimizers like SGD, Momentum, and Adam.
 
-Visualize activation functions (Sigmoid, ReLU, Tanh, Softmax), implement loss functions, and compare optimizers such as SGD, Momentum, and Adam.
+🔷 Experiment 6
 
-▶ View Experiment 📁 Dataset
-
-🔷 Experiment 6 — Multi-Layer Perceptron
+Multi-Layer Perceptron
 
 Topics:
-
 ├── MLP Architecture Design
 ├── Layer Configuration
 ├── Hyperparameter Tuning
 └── Classification Tasks
 
+Build and train MLP architectures with various configurations.
 
-Build and train MLP architectures with varying depths, neuron counts, and activation strategies.
+🖥️ Experiment 7
 
-▶ View Experiment 📁 Dataset
-
-🖥️ Experiment 7 — Convolutional Neural Networks
+Convolutional Neural Networks
 
 Topics:
-
 ├── Convolution Operations
 ├── Pooling Layers (Max, Average)
 ├── Feature Map Extraction
 └── CNN Architecture Design
 
+Implement CNN components from scratch.
+Visualize feature maps and understand convolution/pooling.
 
-Implement CNN components from scratch and visualize feature maps.
+🎨 Experiment 8
 
-▶ View Experiment 📁 Dataset
-
-🎨 Experiment 8 — CNN with Data Augmentation
+CNN with Data Augmentation
 
 Topics:
-
 ├── Data Augmentation Techniques
 ├── Image Transformations (Rotation, Flip, Zoom)
 ├── CNN Model Training
 └── Performance Comparison
 
-
-Train CNNs with augmentation to analyze its effect on generalization performance.
-
-▶ View Experiment 📁 Dataset
+Implement CNNs with augmentation strategies to improve model generalization.
 
 🛠️ Setup & Installation
 Prerequisites
 
 Python 3.8+
-
 VS Code
-
 GPU (Optional, for faster training)
 
 Installation Steps
@@ -209,22 +190,22 @@ source environment_name/bin/activate
 pip install tensorflow keras torch torchvision numpy pandas matplotlib seaborn scikit-learn jupyter
 
 # 4. Launch VS Code
-# Open Experiment folder inside VS Code
+Open experiment directory in VS Code
 
 Running an Experiment
 # Navigate to experiment folder
 cd Exp_1
 
-# Open notebook
+# Open the notebook
 jupyter notebook experiment.ipynb
 
-# Or use JupyterLab
+# or use JupyterLab
 jupyter lab experiment.ipynb
 
 🔧 Technologies Used
 Framework	Version	Purpose
 TensorFlow	2.x	Deep Learning Framework
-Keras	2.x	High-level Neural Network API
+Keras	2.x	High-level Neural Networks API
 PyTorch	2.x	Deep Learning Framework
 NumPy	1.x	Numerical Computing
 Pandas	2.x	Data Manipulation
