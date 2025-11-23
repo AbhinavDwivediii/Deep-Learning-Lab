@@ -107,6 +107,7 @@ Each experiment folder is self-contained with its notebook, datasets, and genera
 
 🔬 Experiments
 
+
 📊 Experiment 1
 
 Comparative Study of Deep Learning Frameworks
@@ -123,6 +124,7 @@ Topics:
 
 Compare TensorFlow, Keras, and PyTorch by implementing linear regression.
 Analyze code verbosity, API design patterns, and debugging capabilities across frameworks.
+
 
 
 🔧 Experiment 2
@@ -143,6 +145,7 @@ Build neural network components from ground up without high-level libraries.
 Implement forward propagation, backpropagation, and training mechanisms.
 
 
+
 🎯 Experiment 3
 
 Classification with DL Frameworks
@@ -158,6 +161,7 @@ Topics:
 └── Performance Evaluation
 
 End-to-end classification pipeline including data normalization, model building, training curves, and confusion matrix analysis.
+
 
 
 🖼️ Experiment 4
@@ -178,6 +182,7 @@ Leverage pretrained models (ResNet, EfficientNet, MobileNet) for image classific
 Implement feature extraction and fine-tuning approaches.
 
 
+
 ⚡ Experiment 5
 
 Training Deep Networks
@@ -194,6 +199,7 @@ Topics:
 
 Visualize activation and loss functions.
 Implement and compare optimizers like SGD, Momentum, and Adam.
+
 
 
 🔷 Experiment 6
@@ -213,6 +219,7 @@ Topics:
 Build and train MLP architectures with various configurations.
 
 
+
 🖥️ Experiment 7
 
 Convolutional Neural Networks
@@ -229,6 +236,7 @@ Topics:
 
 Implement CNN components from scratch.
 Visualize feature maps and understand convolution/pooling.
+
 
 
 🎨 Experiment 8
@@ -259,13 +267,16 @@ VS Code
 GPU (Optional, for faster training)
 
 
+
 Installation Steps
+
 
 1. Clone the repository
 
 git clone <repository-url>
 
 cd deep-learning-experiments
+
 
 2. Create virtual environment
 
@@ -285,6 +296,7 @@ source environment_name/bin/activate
 
 pip install tensorflow keras torch torchvision numpy pandas matplotlib seaborn scikit-learn jupyter
 
+
 4. Launch VS Code
 
 Open experiment directory in VS Code
@@ -303,6 +315,7 @@ or use JupyterLab
 
 jupyter lab experiment.ipynb
 
+
 🔧 Technologies Used
 
 Framework	Version	Purpose
@@ -320,4 +333,5 @@ Pandas	2.x	Data Manipulation
 Matplotlib	3.x	Data Visualization
 
 Scikit-Learn	1.x	Machine Learning Tools
-🙏 Thank You!
+
+# Thank You!
