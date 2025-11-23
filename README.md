@@ -9,7 +9,7 @@
 
 A comprehensive collection of deep learning experiments from fundamentals to advanced applications
 
-View Experiments • Setup • Technologies
+                     View Experiments • Setup • Technologies
 
 📋 Table of Contents
 
