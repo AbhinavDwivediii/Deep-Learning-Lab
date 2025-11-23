@@ -1,4 +1,6 @@
-# Deep-Learning-Lab
+Deep Learning Experiments
+Deep Learning Python TensorFlow PyTorch
 
-Lab Experiments of Deep Learning
+A comprehensive collection of deep learning experiments from fundamentals to advanced applications
 
+View Experiments • Setup • Technologies
