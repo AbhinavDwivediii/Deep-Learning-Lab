@@ -131,6 +131,11 @@
 ┃ ┣ 📄 vae_reconstruction.png
 
 ┃ ┗ 📄 vae_training_loss.png
+
+
 ┣ 📂 Exp_14
+
 ┃ ┗ 📄 model.py
+
 ┗ 📄 README.md
+
