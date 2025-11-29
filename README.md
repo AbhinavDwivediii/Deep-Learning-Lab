@@ -219,9 +219,9 @@
 </td>
 
 <td width="33%" valign="top">
-  <h3>Experiment 12: Autoencoders — Image Reconstruction & Compression</h3>
-  <a href="#"><b>🔗 VIEW EXPERIMENT</b></a><br>
-  <b>📁 DATASET:</b> <a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist">Fashion-MNIST (Kaggle)</a>
+  <h3>Experiment 12: Autoencoders for Image Reconstruction</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp12.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/10iflWSc4i78Z2SDtdpkwN4Ab1XUJrvHf?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 </tr>
 
