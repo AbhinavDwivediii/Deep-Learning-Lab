@@ -140,147 +140,294 @@
 ┗ 📄 README.md
 
 
-<div style="display: flex; flex-direction: column; gap: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;">
+<div align="center">
 
-<!-- EXPERIMENT 1 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>📘 Experiment 1</h2>
+<style>
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: #111820;
+  color: #e6e6e6;
+  width: 420px;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #2a2f38;
+  box-shadow: 0px 0px 10px #00000066;
+}
+
+.card h2 {
+  margin-top: 0;
+  font-size: 22px;
+  color: #78a6ff;
+}
+
+.card h3 {
+  font-size: 17px;
+  margin-bottom: 10px;
+  color: #a8c2ff;
+}
+
+.topics {
+  background: #0d141b;
+  border: 1px solid #232a33;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  font-family: monospace;
+  font-size: 14px;
+  white-space: pre-line;
+}
+
+.btn {
+  display: inline-block;
+  padding: 8px 14px;
+  margin-right: 8px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.btn-blue {
+  background: #2d6cdf;
+  color: white;
+}
+
+.btn-yellow {
+  background: #ffcc33;
+  color: #000;
+}
+
+.btn:hover { opacity: 0.85; }
+</style>
+
+<div class="card-grid">
+
+<!--------------------------------------------
+EXPERIMENT 1
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 1</h2>
   <h3>Comparative Study of Deep Learning Frameworks</h3>
-  <p>Compare TensorFlow, Keras, and PyTorch by implementing linear regression and comparing API ergonomics, verbosity, and debugging experience.</p>
 
-  <a href="LINK_TO_EXP1" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/uciml/iris" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET</a>
+  <div class="topics">
+Topics:
+├── TensorFlow Implementation
+├── Keras Implementation
+├── PyTorch Implementation
+└── Framework Comparison
+  </div>
+
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
 </div>
 
-<!-- EXPERIMENT 2 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>🛠 Experiment 2</h2>
-  <h3>Building Neural Networks from Scratch</h3>
+<!--------------------------------------------
+EXPERIMENT 2
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 2</h2>
+  <h3>Neural Networks from Scratch</h3>
 
-  <ul>
-    <li>Single Neuron (AND gate)</li>
-    <li>Feedforward NN for XOR / AND</li>
-    <li>MLP with backpropagation</li>
-  </ul>
+  <div class="topics">
+Topics:
+├── Single Neuron (AND Gate)
+├── Feedforward Network (XOR)
+├── MLP with Backpropagation
+└── Activation & Loss Functions
+  </div>
 
-  <a href="LINK_TO_EXP2" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (Cats vs Dogs)</a>
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
+  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/sonypriyanka/and-gate">DATASET</a>
 </div>
 
-<!-- EXPERIMENT 3 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>🎯 Experiment 3</h2>
+<!--------------------------------------------
+EXPERIMENT 3
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 3</h2>
   <h3>Classification with DL Frameworks</h3>
 
-  <pre style="white-space:pre-wrap;">├── Dataset: MNIST / Fashion-MNIST
-├── Data Preprocessing
-├── Model Training & Validation
-└── Performance Evaluation</pre>
+  <div class="topics">
+Topics:
+├── MNIST / Fashion-MNIST
+├── Preprocessing
+├── Model Training
+└── Evaluation
+  </div>
 
-  <a href="LINK_TO_EXP3" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (Fashion-MNIST)</a>
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
+  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/oddrationale/mnist-in-csv">DATASET</a>
 </div>
 
-<!-- EXPERIMENT 4 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>🖼 Experiment 4</h2>
+<!--------------------------------------------
+EXPERIMENT 4
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 4</h2>
   <h3>Transfer Learning for Image Classification</h3>
 
-  <pre style="white-space:pre-wrap;">├── Pretrained Models
+  <div class="topics">
+Topics:
+├── Pretrained Models
 ├── Feature Extraction
-├── Fine-Tuning Strategies
-└── Cats vs Dogs / CIFAR-10</pre>
+├── Fine-Tuning
+└── Cats vs Dogs / CIFAR-10
+  </div>
 
-  <a href="LINK_TO_EXP4" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/c/dogs-vs-cats" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (Dogs vs Cats)</a>
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
+  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/salader/dogs-vs-cats">DATASET</a>
 </div>
 
-<!-- EXPERIMENT 5 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>📉 Experiment 5</h2>
-  <h3>Training Deep Networks (Loss, Backpropagation & Optimization)</h3>
+<!--------------------------------------------
+EXPERIMENT 5
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 5</h2>
+  <h3>Training Deep Networks</h3>
 
-  <ul>
-    <li>Activation functions: Sigmoid, ReLU, Tanh, Softmax</li>
-    <li>Losses: MSE, Cross-Entropy</li>
-    <li>Backpropagation</li>
-    <li>Compare optimizers: SGD, Momentum, Adam</li>
-  </ul>
+  <div class="topics">
+Topics:
+├── Activation Functions
+├── Loss Functions
+├── Backpropagation
+└── Optimizer Comparison
+  </div>
 
-  <a href="LINK_TO_EXP5" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/oddrationale/mnist-in-csv" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (MNIST CSV)</a>
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
 </div>
 
-<!-- EXPERIMENT 6 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>🔢 Experiment 6</h2>
+<!--------------------------------------------
+EXPERIMENT 6
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 6</h2>
   <h3>Implementation of MLP</h3>
 
-  <a href="LINK_TO_EXP6" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/pavansanagapati/iris-dataset" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (Iris)</a>
+  <div class="topics">
+Dataset: Iris  
+  </div>
+
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
+  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/uciml/iris">DATASET</a>
 </div>
 
-<!-- EXPERIMENT 7 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>🧠 Experiment 7</h2>
-  <h3>Implementing CNN: Convolution, Pooling, Feature Maps Visualization</h3>
+<!--------------------------------------------
+EXPERIMENT 7
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 7</h2>
+  <h3>Implementing CNN</h3>
 
-  <a href="LINK_TO_EXP7" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/ayush1220/cifar10" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (CIFAR-10)</a>
+  <div class="topics">
+Topics:
+├── Convolution
+├── Pooling
+└── Feature Visualization
+  </div>
+
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
+  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/scolianni/mnistasjpg">DATASET</a>
 </div>
 
-<!-- EXPERIMENT 8 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>📸 Experiment 8</h2>
-  <h3>CNN with Data Augmentation for Image Classification</h3>
+<!--------------------------------------------
+EXPERIMENT 8
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 8</h2>
+  <h3>CNN with Data Augmentation</h3>
 
-  <a href="LINK_TO_EXP8" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/c/cifar-10" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (CIFAR-10)</a>
+  <div class="topics">
+Dataset: Flowers (Image Augmentation)
+  </div>
+
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
+  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/alxmamaev/flowers-recognition">DATASET</a>
 </div>
 
-<!-- EXPERIMENT 10 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>🎯 Experiment 10</h2>
-  <h3>Introduction to Object Detection — Basic R-CNN Implementation</h3>
+<!--------------------------------------------
+EXPERIMENT 10
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 10</h2>
+  <h3>Object Detection (R-CNN)</h3>
 
-  <a href="LINK_TO_EXP10" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/mnassrib/ms-coco" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (MS COCO)</a>
+  <div class="topics">
+Dataset: Face Mask Detection
+  </div>
+
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
+  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/andrewmvd/face-mask-detection">DATASET</a>
 </div>
 
-<!-- EXPERIMENT 11 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>🧩 Experiment 11</h2>
-  <h3>Image Segmentation using UNet</h3>
+<!--------------------------------------------
+EXPERIMENT 11
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 11</h2>
+  <h3>Image Segmentation (UNet)</h3>
 
-  <a href="LINK_TO_EXP11" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/pcbreviglieri/pneumonia-xray-images" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (Chest X-ray / Pneumonia)</a>
+  <div class="topics">
+Dataset: Carvana Masking Challenge
+  </div>
+
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
+  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/abhishek/Carvana-Image-Masking-Challenge">DATASET</a>
 </div>
 
-<!-- EXPERIMENT 12 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>🔧 Experiment 12</h2>
-  <h3>Autoencoders — Image Reconstruction & Feature Compression</h3>
+<!--------------------------------------------
+EXPERIMENT 12
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 12</h2>
+  <h3>Autoencoders</h3>
 
-  <a href="LINK_TO_EXP12" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/oddrationale/mnist-in-csv" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (MNIST)</a>
+  <div class="topics">
+Dataset: Fashion-MNIST  
+  </div>
+
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
+  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/zalando-research/fashionmnist">DATASET</a>
 </div>
 
-<!-- EXPERIMENT 13 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>🎲 Experiment 13</h2>
-  <h3>Variational Autoencoders (VAEs)</h3>
+<!--------------------------------------------
+EXPERIMENT 13
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 13</h2>
+  <h3>Variational Autoencoders (VAE)</h3>
 
-  <a href="LINK_TO_EXP13" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/hojjatk/mnist-dataset" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (MNIST)</a>
+  <div class="topics">
+Dataset: MNIST / CelebA  
+  </div>
+
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
+  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/oddrationale/mnist-in-csv">DATASET</a>
 </div>
 
-<!-- EXPERIMENT 14 -->
-<div style="padding:18px;background:#0d1117;border-radius:10px;border:1px solid #30363d;">
-  <h2>🖌 Experiment 14</h2>
-  <h3>GAN-based Synthetic Image Generation</h3>
+<!--------------------------------------------
+EXPERIMENT 14
+--------------------------------------------->
+<div class="card">
+  <h2>Experiment 14</h2>
+  <h3>GAN – Image Generation</h3>
 
-  <a href="LINK_TO_EXP14" style="background:#1f6feb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none;">VIEW EXPERIMENT</a>
-  <a href="https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset" style="background:#f1c40f;color:black;padding:8px 14px;border-radius:6px;text-decoration:none;margin-left:10px;">DATASET (Plant Diseases — for generative experiments)</a>
+  <div class="topics">
+Dataset: Anime Faces / CelebA  
+  </div>
+
+  <a class="btn btn-blue" href="">VIEW EXPERIMENT</a>
+  <a class="btn btn-yellow" href="https://www.kaggle.com/datasets/splcher/animefacedataset">DATASET</a>
+</div>
+
+</div>
+</div>
+radius:6px;text-decoration:none;margin-left:10px;">DATASET (Plant Diseases — for generative experiments)</a>
 </div>
 
 </div>
