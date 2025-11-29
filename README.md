@@ -141,117 +141,110 @@
 
 
 <h1 align="center">Deep Learning Lab</h1>
-<p align="center">
-A comprehensive collection of Deep Learning experiments from basics to advanced applications.
-</p>
+<p align="center">A comprehensive collection of Deep Learning experiments from basics to advanced applications.</p>
 
+<!-- Table layout (GitHub-safe) -->
 <table>
 <tr>
 <td width="33%" valign="top">
-
-<h3>Experiment 1: Comparative Study of Deep Learning Frameworks</h3>
-<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp1.ipynb">
-<b>🔗 VIEW EXPERIMENT</b>
-</a>
-
+  <h3>Experiment 1: Comparative Study of Deep Learning Frameworks</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp1.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <b>Dataset:</b> (use synthetic / iris / any small CSV)
 </td>
+
 <td width="33%" valign="top">
-
-<h3>Experiment 2: Building Neural Networks from Scratch</h3>
-<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp2.ipynb">
-<b>🔗 VIEW EXPERIMENT</b>
-</a><br>
-<a href="https://drive.google.com/drive/folders/1HJFzCnNx4SdC9UR_LKa7-P2xKUz8Fp06?usp=drive_link">
-<b>📁 DATASET</b>
-</a>
-
+  <h3>Experiment 2: Building Neural Networks from Scratch</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp2.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/1HJFzCnNx4SdC9UR_LKa7-P2xKUz8Fp06?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
+
 <td width="33%" valign="top">
-
-<h3>Experiment 3: Classification with DL Frameworks</h3>
-<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp3.ipynb">
-<b>🔗 VIEW EXPERIMENT</b>
-</a><br>
-<a href="https://drive.google.com/drive/folders/118MaTGKLMyaXpPgBYVWlM-KWyYa0DA_b?usp=drive_link">
-<b>📁 DATASET</b>
-</a>
-
+  <h3>Experiment 3: Classification with DL Frameworks</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp3.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/118MaTGKLMyaXpPgBYVWlM-KWyYa0DA_b?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 </tr>
 
 <tr>
 <td width="33%" valign="top">
-
-<h3>Experiment 4: Transfer Learning</h3>
-<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp4.ipynb">
-<b>🔗 VIEW EXPERIMENT</b>
-</a><br>
-<a href="https://drive.google.com/drive/folders/1nuBfkQNFDtnJE9527N61rzPJR_hPSxAL?usp=drive_link">
-<b>📁 DATASET</b>
-</a>
-
+  <h3>Experiment 4: Transfer Learning for Image Classification</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp4.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/1nuBfkQNFDtnJE9527N61rzPJR_hPSxAL?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33%" valign="top">
-
-<h3>Experiment 5: Loss, Backprop & Optimization</h3>
-<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp5.ipynb">
-<b>🔗 VIEW EXPERIMENT</b>
-</a><br>
-<a href="https://drive.google.com/drive/folders/1qqk3nwOxXuC7JZLGj-FkJHQOUcg3JhEn?usp=drive_link">
-<b>📁 DATASET</b>
-</a>
-
+  <h3>Experiment 5: Training Deep Networks (Loss, Backprop & Optimization)</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp5.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/1qqk3nwOxXuC7JZLGj-FkJHQOUcg3JhEn?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33%" valign="top">
-
-<h3>Experiment 6: Implementation of MLP</h3>
-<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp6.ipynb">
-<b>🔗 VIEW EXPERIMENT</b>
-</a><br>
-<a href="https://drive.google.com/drive/folders/1wPi0ayzv74nrS3TQgt9ZD37-ByxF8kfz?usp=drive_link">
-<b>📁 DATASET</b>
-</a>
-
+  <h3>Experiment 6: Implementation of MLP</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp6.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/1wPi0ayzv74nrS3TQgt9ZD37-ByxF8kfz?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 </tr>
 
 <tr>
 <td width="33%" valign="top">
-
-<h3>Experiment 7: CNN – Convolution, Pooling, Feature Maps</h3>
-<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp7.ipynb">
-<b>🔗 VIEW EXPERIMENT</b>
-</a><br>
-<a href="https://drive.google.com/drive/folders/1hzq6UM7t5qeuRAvvEkLb7sR-Ky32Tt7O?usp=drive_link">
-<b>📁 DATASET</b>
-</a>
-
+  <h3>Experiment 7: Implementing CNN — Convolution, Pooling, Feature Maps</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp7.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/1hzq6UM7t5qeuRAvvEkLb7sR-Ky32Tt7O?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33%" valign="top">
-
-<h3>Experiment 8: CNN with Data Augmentation</h3>
-<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp8.ipynb">
-<b>🔗 VIEW EXPERIMENT</b>
-</a><br>
-<a href="https://drive.google.com/drive/folders/1xQwsFCUmMHiIsYeeT-QX0pMUdW_EYrwO?usp=drive_link">
-<b>📁 DATASET</b>
-</a>
-
+  <h3>Experiment 8: CNN with Data Augmentation</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp8.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/1xQwsFCUmMHiIsYeeT-QX0pMUdW_EYrwO?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33%" valign="top">
+  <h3>Experiment 9: CNN Object Detection</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp9.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/1De4B6xDq_skp8m5gOIUQ5V9gSa_YX20c?usp=drive_link"><b>📁 DATASET</b></a>
+</td>
+</tr>
 
-<h3>Experiment 9: CNN Object Detection</h3>
-<a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp9.ipynb">
-<b>🔗 VIEW EXPERIMENT</b>
-</a><br>
-<a href="https://drive.google.com/drive/folders/1De4B6xDq_skp8m5gOIUQ5V9gSa_YX20c?usp=drive_link">
-<b>📁 DATASET</b>
-</a>
+<tr>
+<td width="33%" valign="top">
+  <h3>Experiment 10: Intro to Object Detection (R-CNN)</h3>
+  <a href="#"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <b>📁 DATASET:</b> <a href="https://www.kaggle.com/datasets/mnassrib/ms-coco">MS COCO (Kaggle)</a>
+</td>
 
+<td width="33%" valign="top">
+  <h3>Experiment 11: Image Segmentation (UNet)</h3>
+  <a href="#"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <b>📁 DATASET:</b> <a href="https://www.kaggle.com/datasets/abhishek/Carvana-Image-Masking-Challenge">Carvana Image Masking (Kaggle)</a>
+</td>
+
+<td width="33%" valign="top">
+  <h3>Experiment 12: Autoencoders — Image Reconstruction & Compression</h3>
+  <a href="#"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <b>📁 DATASET:</b> <a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist">Fashion-MNIST (Kaggle)</a>
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+  <h3>Experiment 13: Variational Autoencoders (VAEs)</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp13.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/1aVWVPN9fC18fc3aM9JjRFOCLH90MLcSJ?usp=drive_link"><b>📁 DATASET</b></a>
+</td>
+
+<td width="33%" valign="top">
+  <h3>Experiment 14: Generative Adversarial Networks (GANs)</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp14.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/1eaKCYKqI8ZzTxTHHxi5iDvrVUvgS6tze?usp=drive_link"><b>📁 DATASET</b></a>
+</td>
+
+<td width="33%" valign="top">
+  <!-- reserved for future use or notes -->
+  <h3>Notes</h3>
+  <ul>
+    <li>Replace <code>#</code> VIEW links for Exps 10–12 with your notebook URLs when ready.</li>
+    <li>All Drive dataset links you provided are included above.</li>
+  </ul>
 </td>
 </tr>
 </table>
