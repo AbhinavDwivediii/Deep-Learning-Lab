@@ -207,9 +207,9 @@
 
 <tr>
 <td width="33%" valign="top">
-  <h3>Experiment 10: Object Detection with R-CNN</h3> 
-  <a href="[#](https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp10.ipynb)"><b>🔗 VIEW EXPERIMENT</b></a><br>
-  <b>📁 DATASET:</b> <a href="[https://www.kaggle.com/datasets/mnassrib/ms-coc](https://drive.google.com/drive/folders/1F7GmB_pEIuSRwljuFUWy4CiMzU1ZQGa1?usp=drive_link)">MS COCO (Kaggle)</a>
+  <h3>Experiment 10: Intro to Object Detection (R-CNN)</h3>
+  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp10.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/1F7GmB_pEIuSRwljuFUWy4CiMzU1ZQGa1?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33%" valign="top">
@@ -248,6 +248,5 @@
 </td>
 </tr>
 </table>
-
 
 # THANKYOU!
