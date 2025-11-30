@@ -215,12 +215,26 @@
 
 <td width="33%" valign="top">
   <h3>Experiment 5: Training Deep Networks (Loss, Backprop & Optimization)</h3>
+
+<b>Topics:</b><br>
+├── Activation Functions Visualization <br>
+├── Loss Functions Implementation <br>
+├── Backpropagation Algorithm <br>
+└── Optimizer Comparison
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp5.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1qqk3nwOxXuC7JZLGj-FkJHQOUcg3JhEn?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33%" valign="top">
   <h3>Experiment 6: Implementation of MLP</h3>
+
+<b>Topics:</b><br>
+├── MLP Architecture Design <br>
+├── Layer Configuration <br>
+├── Hyperparameter Tuning <br>
+└── Classification Tasks
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp6.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1wPi0ayzv74nrS3TQgt9ZD37-ByxF8kfz?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
@@ -229,12 +243,26 @@
 <tr>
 <td width="33%" valign="top">
   <h3>Experiment 7: Implementing CNN — Convolution, Pooling, Feature Maps</h3>
+
+<b>Topics:</b><br>
+├── Convolution Operations <br>
+├── Pooling Layers (Max, Average) <br>
+├── Feature Map Extraction <br>
+└── CNN Architecture Design 
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp7.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1hzq6UM7t5qeuRAvvEkLb7sR-Ky32Tt7O?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33%" valign="top">
   <h3>Experiment 8: CNN with Data Augmentation</h3>
+
+ <b>Topics:</b><br>
+├── Data Augmentation Techniques <br>
+├── Image Transformations (Rotation, Flip, Zoom) <br>
+├── CNN Model Training <br>
+└── Performance Comparison with/without Augmentation
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp8.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1xQwsFCUmMHiIsYeeT-QX0pMUdW_EYrwO?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
