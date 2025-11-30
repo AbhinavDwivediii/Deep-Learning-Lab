@@ -269,6 +269,13 @@
 
 <td width="33%" valign="top">
   <h3>Experiment 9: CNN Object Detection</h3>
+
+  <b>Topics:</b><br>
+├── Object Detection Fundamentals <br>
+├── CNN Architecture for Detection <br>
+├── Bounding Box Prediction <br>
+└── Training & Evaluation
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp9.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1De4B6xDq_skp8m5gOIUQ5V9gSa_YX20c?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
@@ -277,18 +284,39 @@
 <tr>
 <td width="33%" valign="top">
   <h3>Experiment 10: Intro to Object Detection (R-CNN)</h3>
+
+<b>Topics:</b><br>
+├── Region-based CNN (R-CNN) <br>
+├── Region Proposal Networks <br>
+├── Faster R-CNN Implementation <br>
+└── Pascal VOC Dataset
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp10.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1F7GmB_pEIuSRwljuFUWy4CiMzU1ZQGa1?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33%" valign="top">
   <h3>Experiment 11: Image Segmentation with UNet</h3>
+
+<b>Topics:</b><br>
+├── Semantic Segmentation <br>
+├── UNet Architecture <br>
+├── Encoder-Decoder Networks <br>
+└── Pixel-wise Classification
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp11.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://www.kaggle.com/api/v1/datasets/download/pushkar007/vaihingendataann?dataset_version_number=1"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33%" valign="top">
   <h3>Experiment 12: Autoencoders for Image Reconstruction</h3>
+
+ <b>Topics:</b><br>
+├── Autoencoder Architecture <br>
+├── Dimensionality Reduction <br>
+├── Feature Compression <br>
+└── Image Reconstruction
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp12.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/10iflWSc4i78Z2SDtdpkwN4Ab1XUJrvHf?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
@@ -297,12 +325,26 @@
 <tr>
 <td width="33%" valign="top">
   <h3>Experiment 13: Variational Autoencoders (VAEs)</h3>
+
+ <b>Topics:</b><br>
+├── Probabilistic Modeling <br>
+├── Latent Space Distribution <br>
+├── VAE Architecture <br>
+└── Novel Image Generation
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp13.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1aVWVPN9fC18fc3aM9JjRFOCLH90MLcSJ?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33%" valign="top">
   <h3>Experiment 14: Generative Adversarial Networks (GANs)</h3>
+
+ <b>Topics:</b><br>
+├── GAN Architecture <br>
+├── Generator & Discriminator <br>
+├── Adversarial Training <br>
+└── Synthetic Image Generation
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp14.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1eaKCYKqI8ZzTxTHHxi5iDvrVUvgS6tze?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
