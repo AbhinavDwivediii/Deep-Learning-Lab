@@ -238,14 +238,7 @@
   <a href="https://drive.google.com/drive/folders/1eaKCYKqI8ZzTxTHHxi5iDvrVUvgS6tze?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
-<td width="33%" valign="top">
-  <!-- reserved for future use or notes -->
-  <h3>Notes</h3>
-  <ul>
-    <li><code>#</code></li>
-    <li></li>
-  </ul>
-</td>
+
 </tr>
 </table>
 
