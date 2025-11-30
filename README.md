@@ -174,12 +174,26 @@
 
 <td width="33.5%" valign="top">
   <h3>Experiment 2: Building Neural Networks from Scratch</h3>
+
+ <b>Topics:</b><br>
+├── Single Neuron (AND Gate) <br>
+├── Feedforward Network (XOR) <br>
+├── MLP with Backpropagation <br>
+└── Activation & Loss Functions
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp2.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1HJFzCnNx4SdC9UR_LKa7-P2xKUz8Fp06?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33.5%" valign="top">
   <h3>Experiment 3: Classification with DL Frameworks</h3>
+
+<b>Topics:</b><br>
+├── Dataset: MNIST/Fashion-MNIST <br>
+├── Data Preprocessing <br>
+├── Model Training & Validation <br>
+└── Performance Evaluation 
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp3.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/118MaTGKLMyaXpPgBYVWlM-KWyYa0DA_b?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
@@ -188,6 +202,13 @@
 <tr>
 <td width="33%" valign="top">
   <h3>Experiment 4: Transfer Learning for Image Classification</h3>
+
+<b>Topics:</b><br>
+├── Pretrained Models <br>
+├── Feature Extraction <br>
+├── Fine-Tuning Strategies <br>
+└── Cats vs Dogs / CIFAR-10
+
   <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp4.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
   <a href="https://drive.google.com/drive/folders/1nuBfkQNFDtnJE9527N61rzPJR_hPSxAL?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
