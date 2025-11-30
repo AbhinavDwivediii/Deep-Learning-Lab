@@ -355,4 +355,17 @@ Experiments use Kaggle datasets to demonstrate practical applications like image
 </tr>
 </table>
 
+## 🛠 Technologies Used
+
+| Framework       | Version | Purpose                     |
+|-----------------|---------|-----------------------------|
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange) | 2.x     | Deep Learning Framework    |
+| ![Keras](https://img.shields.io/badge/Keras-2.x-red)             | 2.x     | High-level Neural Networks API |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)         | 2.x     | Deep Learning Framework    |
+| ![NumPy](https://img.shields.io/badge/NumPy-1.x-blue)            | 1.x     | Numerical Computing        |
+| ![Pandas](https://img.shields.io/badge/Pandas-2.x-purple)        | 2.x     | Data Manipulation          |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-blue)  | 3.x     | Data Visualization         |
+| ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-1.x-orange) | 1.x  | Machine Learning Tools     |
+
+
 # THANKYOU!
